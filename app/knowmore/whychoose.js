@@ -20,12 +20,12 @@ const WhyChooses = () => {
             </p>
 
             <ul className="grid lg:grid-cols-2 md:space-y-0 space-y-1 list-disc pl-6 text-sm lg:text-base text-[#656565] mt-[15px] lg:mt-[30px] marker:text-[#FFAD00] marker:text-2xl">
-              <li>India's Top 1% Software Talent</li>
-              <li>India's Top 1% Software Talent</li>
-              <li>India's Top 1% Software Talent</li>
-              <li>India's Top 1% Software Talent</li>
-              <li>India's Top 1% Software Talent</li>
-              <li>India's Top 1% Software Talent</li>
+              <li>India&apos;s Top 1% Software Talent</li>
+              <li>India&apos;s Top 1% Software Talent</li>
+              <li>India&apos;s Top 1% Software Talent</li>
+              <li>India&apos;s Top 1% Software Talent</li>
+              <li>India&apos;s Top 1% Software Talent</li>
+              <li>India&apos;s Top 1% Software Talent</li>
             </ul>
 
             <h3 className=" font-semibold text-[#05164D] mt-[40px] text-lg">

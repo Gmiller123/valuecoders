@@ -23,7 +23,7 @@ const FormBooking = () => {
                 </p>
               </li>
               <li className="text-base lg:text-[20px] mb-2 lg:mb-10">
-                What's next?
+                What&apos;s next?
                 <p className=" text-xs mt-1 lg:mt-0 lg:text-[15px] pl-[27px] lg:pl-[32px]">
                   One of our Account Managers will contact you shortly
                 </p>

@@ -64,7 +64,7 @@ const GridLayout = () => {
             <p className=" text-[#9b9b9b] text-sm lg:text-base py-2.5 ">
               The smart integrated platform is founded on the pillars of
               providing application access to parents so that they can also see
-              their children's accomplishments.
+              their children&apos;s accomplishments.
             </p>
             <div className=" flex items-center justify-center gap-16">
               <p className=" text-[#ffffff] lg:text-base text-sm">Core tech</p>
@@ -106,7 +106,7 @@ const GridLayout = () => {
             <p className=" text-[#9b9b9b] text-sm lg:text-base py-2.5 ">
               The smart integrated platform is founded on the pillars of
               providing application access to parents so that they can also see
-              their children's accomplishments.
+              their children&apos;s accomplishments.
             </p>
             <div className=" flex items-center justify-center gap-16">
               <p className=" text-[#ffffff] lg:text-base text-sm">Core tech</p>
@@ -242,7 +242,7 @@ const GridLayout = () => {
             <p className=" text-[#9b9b9b] text-sm lg:text-base py-2.5 ">
               The smart integrated platform is founded on the pillars of
               providing application access to parents so that they can also see
-              their children's accomplishments.
+              their children&apos;s accomplishments.
             </p>
             <div className=" flex items-center justify-center gap-16">
               <p className=" text-[#ffffff] lg:text-base text-sm">Core tech</p>

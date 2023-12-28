@@ -25,8 +25,8 @@ const HiringModel = () => {
               (e.g. project manager, software engineers, QA engineers, and other
               roles) capable of delivering technology solutions rapidly and
               efficiently. The roles are defined for each specific project and
-              management is conducted jointly by a Scrum Master and the client's
-              product owner.
+              management is conducted jointly by a Scrum Master and the
+              client&apos;s product owner.
             </p>
             <ul className=" flex flex-col gap-3 text-[#656565] text-base">
               <li className=" flex items-center justify-start gap-2">
@@ -100,8 +100,8 @@ const HiringModel = () => {
               (e.g. project manager, software engineers, QA engineers, and other
               roles) capable of delivering technology solutions rapidly and
               efficiently. The roles are defined for each specific project and
-              management is conducted jointly by a Scrum Master and the client's
-              product owner.
+              management is conducted jointly by a Scrum Master and the
+              client&apos;s product owner.
             </p>
             <ul className=" flex flex-col gap-3 text-[#656565] text-base">
               <li className=" flex items-center justify-start gap-2">
@@ -175,8 +175,8 @@ const HiringModel = () => {
               (e.g. project manager, software engineers, QA engineers, and other
               roles) capable of delivering technology solutions rapidly and
               efficiently. The roles are defined for each specific project and
-              management is conducted jointly by a Scrum Master and the client's
-              product owner.
+              management is conducted jointly by a Scrum Master and the
+              client&apos;s product owner.
             </p>
             <ul className=" flex flex-col gap-3 text-[#656565] text-base">
               <li className=" flex items-center justify-start gap-2">
