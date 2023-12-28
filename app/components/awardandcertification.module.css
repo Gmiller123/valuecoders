@@ -1,0 +1,17 @@
+.bannerOdd {
+  animation: scrollOdd 20s linear infinite;
+}
+.bannerEven {
+  animation: scrollEven 20s linear infinite;
+}
+@keyframes scrollOdd {
+  to {
+    transform: translate(-100%);
+  }
+}
+
+@keyframes scrollEven {
+  to {
+    transform: translate(100%);
+  }
+}

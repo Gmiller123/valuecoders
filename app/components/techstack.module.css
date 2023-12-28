@@ -1,0 +1,17 @@
+.bannerOne {
+  animation: rightToLeft 50s linear infinite;
+}
+@keyframes rightToLeft {
+  to {
+    transform: translate(-100%);
+  }
+}
+
+.bannerTwo {
+  animation: leftToRight 50s linear infinite;
+}
+@keyframes leftToRight {
+  to {
+    transform: translate(100%);
+  }
+}

@@ -1,0 +1,8 @@
+.animations {
+  animation: scrollAnimation 20s linear infinite;
+}
+@keyframes scrollAnimation {
+  to {
+    transform: translateX(-100%);
+  }
+}
