@@ -25,7 +25,7 @@ export function CarouselSpacing() {
       onMouseLeave={plugin.current.reset}
     >
       <CarouselContent className="-ml-1">
-        {Array.from({ length: 5 }).map((_, index) => (
+        {Array.from({ length: 10 }).map((_, index) => (
           <CarouselItem key={index} className="pl-1 md:basis-1/2 lg:basis-1/3">
             <div className="p-1">
               <Card className="mr-3">
