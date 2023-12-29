@@ -8,11 +8,11 @@ import Hero from "./components/hero";
 import CardSolution from "./components/cardsolution";
 import TechStack from "./components/techstack";
 import Solution from "./components/solution";
-// import { AccordionCustomIcon } from "./components/accordioncomponent";
 import FaqSection from "./components/faqsection";
 import FormBooking from "./components/formbooking";
 import Navbar from "./components/navbar";
 import Footer from "./components/footer";
+import SliderTestimonials from "./components/slider";
 
 export default function Home() {
   return (
@@ -30,6 +30,7 @@ export default function Home() {
       <CardSolution />
       <FaqSection />
       <GridLayout />
+      <SliderTestimonials />
       <FormBooking />
       <Footer />
     </main>

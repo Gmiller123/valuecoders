@@ -40,7 +40,7 @@ export function FaqAccordion() {
       <Accordion
         open={(open === 1, alwaysOpen)}
         icon={<Icon id={1} open={open} />}
-        className="border-b border-black border-opacity-15"
+        className="border-b border-black border-opacity-15 pb-3 lg:pb-5 pb-3 lg:pb-5"
       >
         <AccordionHeader
           onClick={handleAlwaysOpen}
@@ -95,7 +95,7 @@ export function FaqAccordion() {
       <Accordion
         open={open === 2}
         icon={<Icon id={2} open={open} />}
-        className="border-b border-black border-opacity-15 pt-5"
+        className="border-b border-black border-opacity-15 pb-3 lg:pb-5 pt-5"
       >
         <AccordionHeader
           onClick={() => handleOpen(2)}
@@ -127,7 +127,7 @@ export function FaqAccordion() {
       <Accordion
         open={open === 3}
         icon={<Icon id={3} open={open} />}
-        className="border-b border-black border-opacity-15 pt-5"
+        className="border-b border-black border-opacity-15 pb-3 lg:pb-5 pt-5"
       >
         <AccordionHeader
           onClick={() => handleOpen(3)}
@@ -154,7 +154,7 @@ export function FaqAccordion() {
       <Accordion
         open={open === 4}
         icon={<Icon id={4} open={open} />}
-        className="border-b border-black border-opacity-15 pt-5"
+        className="border-b border-black border-opacity-15 pb-3 lg:pb-5 pt-5"
       >
         <AccordionHeader
           onClick={() => handleOpen(4)}
@@ -203,7 +203,7 @@ export function FaqAccordion() {
       <Accordion
         open={open === 5}
         icon={<Icon id={5} open={open} />}
-        className="border-b border-black border-opacity-15 pt-5"
+        className="border-b border-black border-opacity-15 pb-3 lg:pb-5 pt-5"
       >
         <AccordionHeader
           onClick={() => handleOpen(5)}
@@ -251,7 +251,7 @@ export function FaqAccordion() {
       <Accordion
         open={open === 6}
         icon={<Icon id={6} open={open} />}
-        className="border-b border-black border-opacity-15 pt-5"
+        className="border-b border-black border-opacity-15 pb-3 lg:pb-5 pt-5"
       >
         <AccordionHeader
           onClick={() => handleOpen(6)}
@@ -300,7 +300,7 @@ export function FaqAccordion() {
       <Accordion
         open={open === 7}
         icon={<Icon id={7} open={open} />}
-        className="border-b border-black border-opacity-15 pt-5"
+        className="border-b border-black border-opacity-15 pb-3 lg:pb-5 pt-5"
       >
         <AccordionHeader
           onClick={() => handleOpen(7)}
@@ -350,7 +350,7 @@ export function FaqAccordion() {
       <Accordion
         open={open === 8}
         icon={<Icon id={8} open={open} />}
-        className="border-b border-black border-opacity-15 pt-5"
+        className="border-b border-black border-opacity-15 pb-3 lg:pb-5 pt-5"
       >
         <AccordionHeader
           onClick={() => handleOpen(8)}
@@ -399,7 +399,7 @@ export function FaqAccordion() {
       <Accordion
         open={open === 9}
         icon={<Icon id={9} open={open} />}
-        className="border-b border-black border-opacity-15 pt-5"
+        className="border-b border-black border-opacity-15 pb-3 lg:pb-5 pt-5"
       >
         <AccordionHeader
           onClick={() => handleOpen(9)}
